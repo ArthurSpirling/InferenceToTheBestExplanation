@@ -1,5 +1,5 @@
 
-&nbsp; &nbsp; <img src="figures/peirce.jpg" alt="Peirce" height="170"/> &nbsp; <img src="figures/regress.png" alt="Regression" height="170"/>&nbsp; <img src="figures/DAG.png" alt="dag" height="170"/>&nbsp;<img src="figures/semmelweis.jpg" alt="semmelweis" height="170"/>
+&nbsp; &nbsp; <img src="figures/regress.png" alt="Regression" height="170"/> &nbsp; <img src="figures/peirce.jpg" alt="Peirce" height="170"/> &nbsp; <img src="figures/DAG.png" alt="dag" height="170"/>&nbsp;<img src="figures/semmelweis.jpg" alt="semmelweis" height="170"/>
 
 
 # What Good is a Regression? *Inference to the Best Explanation* and the Practice of Political Science Research
