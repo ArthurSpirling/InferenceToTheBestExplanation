@@ -1,4 +1,4 @@
-https://github.com/ArthurSpirling/InferenceToTheBestExplanation/blob/peirce.jpg?raw=true
+https://github.com/ArthurSpirling/InferenceToTheBestExplanation/blob/main/peirce.jpg?raw=true
 
 
 # What Good is a Regression? *Inference to the Best Explanation* and the Practice of Political Science Research
