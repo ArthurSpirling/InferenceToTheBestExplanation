@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" width=100%>
 
 <img src="peirce.jpg" alt="Peirce" height="170"/><img src="regress.png" alt="Regression" height="170"/><img src="DAG.png" alt="dag" height="170"/><img src="semmelweis.jpg" alt="semmelweis" height="170"/>
 
