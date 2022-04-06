@@ -1,4 +1,4 @@
-<img src="peirce.jpg" alt="Peirce" height="150"/><img src="regression.jpg" alt="Regression" height="150"/>
+<img src="peirce.jpg" alt="Peirce" height="150"/><img src="regression.png" alt="Regression" height="150"/>
 
 
 # What Good is a Regression? *Inference to the Best Explanation* and the Practice of Political Science Research
